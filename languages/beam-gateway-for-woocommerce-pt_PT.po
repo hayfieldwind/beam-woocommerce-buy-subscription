@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Beam Payment Gateway\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-16 14:29+0000\n"
+"PO-Revision-Date: 2020-09-16 14:29+0000\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese (Portugal)\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: beam-gateway.php:405
+msgid "An error has occurred in the Beam Payment Gateway."
+msgstr "Ocorreu um erro na Gateway de Pagamentos Beam"
+
+#: beam-gateway.php:304
+msgid "Awaiting beam payment"
+msgstr "A aguardar o pagamento com Beam"
+
+#: beam-gateway.php:178
+msgid "Beam Wallet"
+msgstr "Carteira Beam"
+
+#: beam-gateway.php:52
+msgid "Beam Wallet Gateway"
+msgstr "Gateway de Pagamento Beam"
+
+#: beam-gateway.php:259 beam-gateway.php:282
+msgid "Beamer Email/Phone"
+msgstr "Email/Telemóvel Beamer"
+
+#: beam-gateway.php:286
+msgid "Beamer PIN"
+msgstr "PIN do Beamer"
+
+#. Author of the plugin
+msgid "Centrality"
+msgstr ""
+
+#: beam-gateway.php:147
+msgid "Check Terminal Credentials"
+msgstr "Verificar credênciais do terminal"
+
+#: beam-gateway.php:218
+msgid "Checked"
+msgstr "Verificado"
+
+#: beam-gateway.php:219
+msgid "Credentials Checked"
+msgstr "Credênciais verificadas"
+
+#: beam-gateway.php:182
+msgid "Description"
+msgstr "Descrição"
+
+#: beam-gateway.php:204
+msgid "Device ID"
+msgstr "ID do dispositivo"
+
+#: beam-gateway.php:208
+msgid "Display Name"
+msgstr "Nome a apresentar"
+
+#: beam-gateway.php:260
+msgid "Email/Phone"
+msgstr "Email/Telemóvel"
+
+#: beam-gateway.php:169
+msgid "Enable Beam Wallet Gateway"
+msgstr "Ativar a Gateway de Pagamentos Beam"
+
+#: beam-gateway.php:212
+msgid "Enable Logging?"
+msgstr "Ativar o Log?"
+
+#: beam-gateway.php:189
+msgid "Enable Test Mode"
+msgstr "Ativar Modo de Teste"
+
+#: beam-gateway.php:168
+msgid "Enable/Disable"
+msgstr "Ativar/Desativar"
+
+#: beam-gateway.php:387
+msgid "Error in creating terminal conversation"
+msgstr "Erro ao Iniciar Conversação do Terminal"
+
+#: beam-gateway.php:377
+msgid "Error in the Beamer Conversation"
+msgstr "Erro ao Iniciar Conversação do Beamer"
+
+#: beam-gateway.php:382
+msgid "Error in the Beamer Login"
+msgstr "Erro no Login do Beamer"
+
+#: beam-gateway.php:371
+msgid "Error in the Terminal Get Conversation"
+msgstr "Erro ao Obter resultado da Conversação do Terminal"
+
+#: beam-gateway.php:213
+msgid ""
+"For monitoring purposes we will track all activities that occur and show "
+"them in the woocommerce status log"
+msgstr ""
+"Apenas para monitorizar os pedidos efetuados serão armazenados registos nos "
+"logs do woocommerce"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.centrality.pt"
+msgstr ""
+
+#: beam-gateway.php:244
+msgid ""
+"In test mode, you can use the following email \"miguel@beamwallet.com\" and "
+"pin \"2580\" "
+msgstr ""
+"Em nodo Teste, poderá utilizar o email \"miguel@beamwallet.com\" com o pin "
+"\"2580\""
+
+#: beam-gateway.php:282 beam-gateway.php:286
+msgid "is required!"
+msgstr "é obrigatório"
+
+#: beam-gateway.php:200
+msgid "Name"
+msgstr "Nome"
+
+#: beam-gateway.php:53 beam-gateway.php:185
+msgid "Pay with your Beam Wallet and earn rewards."
+msgstr "Pague com seu telefone, ganhe recompensas"
+
+#: beam-gateway.php:263 beam-gateway.php:264
+msgid "PIN"
+msgstr "PIN"
+
+#: beam-gateway.php:191
+msgid "Place the payment gateway in test mode using test API keys."
+msgstr "Coloque a Gateway de Pagamento em Modo de Teste"
+
+#. Description of the plugin
+msgid "Take Beam Wallet payments on your store."
+msgstr "Leve os pagamentos com Beam até à sua loja online"
+
+#: beam-gateway.php:196
+msgid "Terminal Key"
+msgstr "Chave do Terminal"
+
+#: beam-gateway.php:188
+msgid "Test mode"
+msgstr "Modo de Teste"
+
+#: beam-gateway.php:244
+msgid "TEST MODE ENABLED"
+msgstr "MODO DE TESTE ATIVADO"
+
+#: beam-gateway.php:184
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+"Esta opção controla a descrição que o utilizador vê quando está no ponto de "
+"Checkout"
+
+#: beam-gateway.php:177
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+"Esta opção controla o Título que o utilizador vê quando está no ponto de "
+"Checkout"
+
+#: beam-gateway.php:175
+msgid "Title"
+msgstr "Título"
+
+#. Name of the plugin
+msgid "WooCommerce Beam Payment Gateway"
+msgstr "Gateway de Pagamentos Beam para o Woocommerce"
+
+msgid ""
+"If you dont have a beam wallet <a href=\"%s\" target=\"_blank\">click "
+"here</a> to create one now."
+msgstr ""
+"Se ainda não tem uma carteira beam <a href=\"%s\" target=\"_blank\">clique "
+"aqui</a> para criar agora uma nova."

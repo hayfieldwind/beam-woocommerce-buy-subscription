@@ -1,0 +1,13 @@
+.single-product.woocommerce div.product div.summary {
+    /* min-width: 100%; */
+    /* padding: 20px;
+    margin: 20px;
+    background-color: #d5d5d5; */
+    float:none!important;
+}
+.woocommerce-cart .variation{
+    display:none;
+}
+.menu-item .fa-shopping-cart{
+    color:#FF2069;
+}
